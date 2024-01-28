@@ -1,0 +1,10 @@
+body {
+    background: #a8d1a4;
+    color: rgb(134, 145, 201);
+}
+
+#rotating-image {
+    width: 400px;
+    height: 500px;
+    transition: transform 8s linear;
+  }
